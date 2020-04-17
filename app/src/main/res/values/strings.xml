@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Diagnosis</string>
+
+    <string name="dialog_action_ok">OK</string>
+    <string name="dialog_action_cancel">Cancel</string>
+    <string name="dialog_error_title">Sorry</string>
+    <string name="dialog_action_terms_accept">Accept</string>
+    <string name="dialog_action_read_terms">View Terms</string>
+
+    <!-- Error View -->
+    <string name="error_title">Oops</string>
+    <string name="error_message">There was a problem, please try again!</string>
+    <string name="error_reload">Reload</string>
+    <string name="error_something_bad_happened">Something bad happened. Please try again.</string>
+    <string name="begin">Begin</string>
+
+    <string name="terms_dialog_title">Accept Terms of Use</string>
+    <string name="terms_dialog_message">I have read, understood and I accept and agree to comply with the <a href="http://www.endlessmedical.com/TermsOfUse">Terms of Use</a>.</string>
+    <string name="terms_url">http://www.endlessmedical.com/TermsOfUse</string>
+    <string name="page_title_features">Features</string>
+    <string name="search_symptoms">Search Symptoms</string>
+    <string name="delete">Delete</string>
+    <string name="page_title_analysis">Analyze</string>
+
+</resources>

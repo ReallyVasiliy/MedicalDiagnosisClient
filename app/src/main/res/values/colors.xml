@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#03A9F4</color>
+    <color name="primary_dark">#026C9C</color>
+    <!--<color name="primary_light">#FFCDD2</color>-->
+    <color name="accent">#30B8F6</color>
+    <!--<color name="primary_text">#212121</color>-->
+    <!--<color name="secondary_text">#727272</color>-->
+    <!--<color name="icons">@color/white</color>-->
+    <color name="white">#FFFFFF</color>
+    <color name="search_text">#FFFFFF</color>
+    <color name="search_text_hint">#A0FFFFFF</color>
+    <color name="search_text_bg">#A0FFFFFF</color>
+    <color name="autocomplete_text">#000000</color>
+    <color name="saved_text">#000000</color>
+    <color name="saved_value">#303030</color>
+    <!--<color name="divider">#B6B6B6</color>-->
+</resources>

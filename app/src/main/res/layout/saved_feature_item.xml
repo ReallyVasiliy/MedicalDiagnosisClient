@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+    <TextView
+        android:id="@+id/saved_feature_title"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="6"
+        android:padding="10dp"
+        android:textSize="12sp"
+        android:textColor="@color/saved_text"
+        />
+    <TextView
+        android:id="@+id/saved_feature_value"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="4"
+        android:padding="10dp"
+        android:textSize="12sp"
+        android:textColor="@color/saved_value"
+        />
+
+    <ImageButton
+        android:id="@+id/saved_feature_delete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#00000000"
+        android:src="@drawable/baseline_delete_white_24"
+        android:padding="8dp"
+        android:tint="#FF5252" />
+
+</LinearLayout>
